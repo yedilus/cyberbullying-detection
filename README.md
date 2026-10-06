@@ -2,8 +2,6 @@
 
 Автоматизированная система обнаружения кибербуллинга и токсичного контента в социальном пространстве (Twitter/X) с использованием методов машинного обучения и трансформеров (NLP).
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ВАШ_НИК/ИМЯ_РЕПОЗИТОРИЯ/blob/main/cyberbullying_detection.ipynb)
-
 ---
 
 ## 📌 Описание проекта
